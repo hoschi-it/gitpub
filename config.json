@@ -1,12 +1,12 @@
 {
-  "domain": "http://bret.io",
+  "domain": "https://hoschi-it.de",
   "github": {
-    "user": "bcomnes",
-    "repo": "bcomnes.github.io"
+    "user": "hoschi-it",
+    "repo": "hoschi-it.de"
   },
-  "tokenUrl": "https://tokens.oauth.net/token",
-  "email": "bcomnes@gmail.com",
-  "name": "Bret Comnes",
+  "tokenUrl": "https://tokens.indieauth.com/token",
+  "email": "me@hoschi-it.de",
+  "name": "hoschi-it",
   "mediaFolder": "media",
-  "syndicateTo": [ "twitter.com/bretolius" ]
+  "syndicateTo": [ ]
 }
